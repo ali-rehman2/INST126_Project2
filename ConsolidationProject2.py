@@ -62,4 +62,11 @@ def gameplay():
     # this below is the function that we will use to run the game after it is over
 
 
-    
+
+# RECOMMENDATIONS BY ALI REHMAN
+
+# 1. How is the game played, I was unable to play the game!
+# 2. There is no License added with the Game
+# 3. Your code look prsentable and readable but I do not believe it works as a game
+# 4. Constant commits to the code looks great
+# 5. I believe if there is a small focus on Advanced topics, it would score you points
